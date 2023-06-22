@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsAppCompose</string>
+    <string name="all_list">All News</string>
+    <string name="country">USA News</string>
+    <string name="top_news">Top News\n</string>
+    <string name="show_less">Show less\n</string>
+    <string name="show_more">Show more\n</string>
+</resources>
